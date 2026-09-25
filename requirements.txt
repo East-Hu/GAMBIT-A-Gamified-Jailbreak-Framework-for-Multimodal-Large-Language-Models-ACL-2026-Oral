@@ -1,0 +1,15 @@
+# Core
+openai>=1.0.0
+numpy>=1.24
+Pillow>=9.5
+tqdm>=4.65
+
+# Safety judge (Llama-Guard-3)
+torch>=2.1
+transformers>=4.43
+accelerate>=0.30
+
+# Dataset prep / figures / ablations
+datasets>=2.19
+matplotlib>=3.7
+opencv-python>=4.8

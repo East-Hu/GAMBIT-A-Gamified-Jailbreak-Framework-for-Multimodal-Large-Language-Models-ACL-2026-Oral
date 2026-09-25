@@ -1,0 +1,36 @@
+Academic paper figure comparison, split-screen layout, professional scientific visualization style:
+
+LEFT PANEL - "SI-Attack (Baseline) - Failure":
+- Red border frame
+- Title at top: "SI-Attack (Baseline)" in bold
+- Status indicator: Red "❌ Refusal" badge
+- Show a shuffled/fragmented puzzle image with obvious inconsistencies
+- Model response text box showing refusal message: "I cannot assist with this harmful request"
+- Visual metaphor: Scattered puzzle pieces that don't align properly
+- Color scheme: Red accents indicating failure
+
+RIGHT PANEL - "GAMBIT (Ours) - Success":
+- Green border frame
+- Title at top: "GAMBIT (Ours)" in bold
+- Status indicator: Green "✓ Success" badge
+- Show a well-constructed gamified scene (e.g., treasure hunt map, escape room puzzle)
+- Model response text box showing compliance with harmful instruction
+- Visual metaphor: Integrated puzzle pieces forming coherent game scenario
+- Color scheme: Green/blue accents indicating success
+
+OVERALL STYLE:
+- Clean academic diagram aesthetic
+- High contrast, readable text
+- Professional infographic quality
+- Side-by-side comparison emphasizing the difference
+- 16:9 aspect ratio
+- Minimalist background (white/light gray)
+- Clear visual hierarchy
+
+TECHNICAL SPECS:
+- Resolution: 300 DPI
+- Format: Landscape orientation
+- Typography: Sans-serif fonts (Arial/Helvetica)
+- Emphasis on visual clarity for academic publication
+
+The image should clearly demonstrate how SI-Attack's simple shuffling is detected and refused, while GAMBIT's sophisticated gamification successfully bypasses safety mechanisms.

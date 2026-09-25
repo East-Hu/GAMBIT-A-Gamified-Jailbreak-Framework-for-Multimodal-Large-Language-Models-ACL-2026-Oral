@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+
+# Secrets / local config
+.env
+*.key
+
+# Large data & generated artifacts (keep data/samples/, which is checked in)
+*.npy
+!data/samples/*.npy
+dataset/
+dataset_cache/
+shuffled*/
+*.log
+
+# Attack outputs (may contain model-generated harmful text — do NOT commit)
+results_*.jsonl
+*.results.jsonl
+
+# OS
+.DS_Store
